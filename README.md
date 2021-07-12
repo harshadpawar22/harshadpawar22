@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @harshadpawar22
-- 👀 I’m interested in Cyber Security 
 - 📫 How to reach me @harshadpawar69@gmail.com
 
 <!---
