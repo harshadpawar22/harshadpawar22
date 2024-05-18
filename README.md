@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshad Pawar
-- Ethical Hacker (CEH)| Cybersecurity Engineer| Student at Atharva College of Engineering.
+- Penetration Tester| Bug Hunter
 - 📫 How to reach me @dev.harshadpawar69@gmail.com
 
 <!---
